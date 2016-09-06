@@ -1,0 +1,17 @@
+{
+    "name": "component/ano1",
+    "description": "The first project on github.",
+    "keywords": ["test", "test"],
+    "type": "project",
+    "license":"MIT",
+    "version":"1.0.0",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "authors": [
+        {
+            "name": "dreammaker008",
+            "email": "chxzh11420@163.com"
+        }
+    ]
+}
